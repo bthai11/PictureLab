@@ -1,4 +1,4 @@
-Hi!
+2D Array CollegeBoard Lab
 This project is designed to help you learn how to use 2D arrays.  In addition, you will learn a lot about Color class.
 
 The only files you need to edit are the PictureTester class and the Picture class.
